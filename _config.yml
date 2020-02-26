@@ -159,7 +159,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - 2020-02-26-can't-even-make-a-post
+  - 2020-02-26-can't-even-make-a-post.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
